@@ -1,4 +1,5 @@
-<img width="882" height="490" alt="H1B_DASHBOARD" src="https://github.com/user-attachments/assets/66e92bd7-bf91-4072-892f-c401c146f6ff" />
+<img width="883" height="490" alt="H1BDASHBOARD" src="https://github.com/user-attachments/assets/ec7791cb-8ab7-4c72-98e5-116420bd7fd3" />
+
 
 
 # H1B Visa Data Analysis Dashboard
