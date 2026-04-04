@@ -81,6 +81,15 @@ SELECT case_status, COUNT(*)
 FROM h1b_2025
 GROUP BY case_status;
 
+-- to find duplicates and ignore them by choosing only distinct 
+select distinct case_number from h1b_2025;
+
+CREATE TABLE h1b_clean AS
+SELECT DISTINCT *
+FROM h1b_2025;
+
+select * from h1b_clean;
+
 
 
 
